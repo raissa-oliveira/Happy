@@ -1,0 +1,53 @@
+<resources>
+    //Login
+    <string name="app_name">Happy</string>
+    <string name="account_name">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="remember_me">Lembrar Usuário</string>
+    <string name="sign_in">Entrar</string>
+    <string name="forgot_your_login_info">Esqueceu sua senha?</string>
+
+    //Create Account
+    <string name="create_account_email">E-mail</string>
+    <string name="create_account_password">Senha</string>
+    <string name="create_account_confirm_password">Confirmar Senha</string>
+    <string name="create_account_name">Nome</string>
+    <string name="create_account_tel">Telefone</string>
+    <string name="create_account_buttom">Criar Conta</string>
+
+    //Account Check
+    <string name="do_you_have_account">Você já tem uma conta?</string>
+    <string name="already_have_account">Tenho uma conta</string>
+    <string name="register_new_account">Não tenho conta</string>
+
+    //Rep check
+    <string name="already_lives_in_rep">Você já está vinculado \n a uma república?</string>
+    <string name="link_rep">Vincular República</string>
+    <string name="create_rep">Criar República</string>
+    <string name="find_rep">Procurar República</string>
+
+    //Create Rep
+    <string name="create_rep_nome">Nome</string>
+    <string name="create_rep_buttom">Criar República</string>
+
+    //Forgot Password
+    <string name="forgot_password_email">E-mail</string>
+    <string name="forgot_password_button">Enviar e-mail de Recuperação</string>
+
+    //Navigation Drawer
+    <string name="navigation_profile">Perfil</string>
+    <string name="navigation_my_rep">Minha República</string>
+    <string name="navigation_rep_ads">Classificados</string>
+    <string name="navigation_sign_out">Sair</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
